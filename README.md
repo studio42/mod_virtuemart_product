@@ -1,4 +1,4 @@
-mod_virtuemart_products
+mod_virtuemart_product
 =======================
 
 Product modules replacement for original Virtuemart 2.0 one
